@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Saurav%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Student%20%7C%20Web%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Saurav%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Student%20%7C%20Data%20Analyst%20%7C%20Aspiring%20Web%20Dev&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -18,25 +18,43 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🌌 About Me
 
-```python
-class Saurav:
-    def __init__(self):
-        self.name       = "Saurav"
-        self.username   = "jhsaurav04"
-        self.status     = "Student 🎓"
-        self.interests  = ["Web Development 🌐", "Data Science 📊", "Machine Learning 🤖"]
-        self.currently  = "Learning & Building Cool Stuff"
-        self.looking_for = "Collaborations & Opportunities"
-        self.fun_fact   = "I debug with print statements and I'm proud of it 😄"
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+> *"Data is not just numbers — it's the language the world speaks when it thinks no one is listening."*
 
-me = Saurav()
-me.say_hi()
-```
+&nbsp;
+
+I'm **Saurav** — a data-driven mind with a sharp eye for patterns
+and an obsession with turning raw, messy datasets into stories
+that are impossible to ignore.
+
+&nbsp;
+
+▸ &nbsp; I don't just **analyze** data — I interrogate it, challenge it,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and extract every insight it's trying to hide.
+
+▸ &nbsp; I don't just **visualize** graphs — I craft narratives from numbers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using Matplotlib, Seaborn & Plotly that speak louder than words.
+
+▸ &nbsp; I don't just **write** queries — I let SQL reveal the structure
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beneath the chaos of every raw database.
+
+▸ &nbsp; And now? I'm stepping into **Web Development** —
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because the best data stories deserve a beautiful stage.
+
+&nbsp;
+
+I sit at the intersection of **Data Science** and **the Web** —
+a place where analytical thinking meets creative building,
+and where most people haven't arrived yet.
+
+&nbsp;
+
+> 🚀 &nbsp; *Not here to just learn. Here to build something worth remembering.*
+
+&nbsp;
 
 ---
 
@@ -44,19 +62,19 @@ me.say_hi()
 
 <div align="center">
 
+### 📊 Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🤖 Data Science & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,10 +101,10 @@ me.say_hi()
 
 ## 🌱 Currently Working On
 
-- 🔭 Building personal web projects to sharpen my skills
-- 📚 Diving deeper into **Machine Learning** algorithms
-- 🌐 Exploring **Full Stack Web Development**
-- 💡 Looking for exciting **open source** contributions
+- 🔬 Building real-world **EDA & Data Visualization** projects
+- 📊 Mastering **advanced Plotly** dashboards & interactive visuals
+- 🌐 Stepping into **Full Stack Web Development**
+- 💡 Looking for exciting **open source** contributions to make an impact
 
 ---
 
