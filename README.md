@@ -92,16 +92,25 @@ me.say_hi()
 
 ## 🤝 Let's Connect
 
-<p>I'm always open to collaborations, projects, and good conversations.</p>
+<p>I'm always open to collaborations, internships, cool projects,<br>or just a good conversation about data and tech.</p>
+
+<br>
 
 <a href="https://github.com/jhsaurav04">
-  <img src="https://img.shields.io/badge/GitHub-jhsaurav04-black?style=flat-square&logo=github&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/GitHub-jhsaurav04-1a1a2e?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" height="30"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saurav-kumar-22b382367">
-  <img src="https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sauravjha3084@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sauravjha3084-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="30"/>
 </a>
 
+<br><br>
+
+<p><i>✦ Open to internships · collaborations · and cool ideas ✦</i></p>
 ---
 
 <!-- Activity Graph -->
