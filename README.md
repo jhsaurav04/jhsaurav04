@@ -90,16 +90,17 @@ me.say_hi()
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-<div align="center">
+<p>I'm always open to collaborations, projects, and good conversations.</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-jhsaurav04-181717?style=for-the-badge&logo=github)](https://github.com/jhsaurav04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurav-kumar-22b382367)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravjha3084@gmail.com)
-
-</div>
+<a href="https://github.com/jhsaurav04">
+  <img src="https://img.shields.io/badge/GitHub-jhsaurav04-black?style=flat-square&logo=github&logoColor=white" height="32"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/saurav-kumar-22b382367">
+  <img src="https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
+</a>
 
 ---
 
