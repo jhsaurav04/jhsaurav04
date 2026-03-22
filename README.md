@@ -20,23 +20,58 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Saurav:
-    def __init__(self):
-        self.name       = "Saurav"
-        self.username   = "jhsaurav04"
-        self.status     = "Student 🎓"
-        self.interests  = ["Web Development 🌐", "Data Science 📊", "Machine Learning 🤖"]
-        self.currently  = "Learning & Building Cool Stuff"
-        self.looking_for = "Collaborations & Opportunities"
-        self.fun_fact   = "I debug with print statements and I'm proud of it 😄"
+👋 Hey there, I'm Saurav!
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+A second-year B.Tech CSE student specializing in Data Science —
+someone who genuinely believes that data is the most powerful tool
+of our generation, and is on a mission to wield it well.
 
-me = Saurav()
-me.say_hi()
-```
+I don't just run code on datasets. I ask questions, dig deep,
+find patterns that hide in plain sight, and turn them into
+stories that actually mean something.
+
+❝ Data is everywhere — most people see numbers. I see narratives. ❞
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧  What I work with
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+▸ Python         — my first language and still my favourite
+▸ Pandas & NumPy — for wrangling messy, real-world data
+▸ SQL            — querying structured data with precision
+▸ Matplotlib · Seaborn · Plotly — making data speak visually
+▸ EDA            — finding what the data hides before anyone else does
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀  What I'm building toward
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+▸ Becoming a data professional who can also build & ship — not just analyze
+▸ Expanding into Web Development to bridge data and product
+▸ Exploring Machine Learning as the next frontier
+▸ Contributing to open source projects in data & analytics
+▸ Finding opportunities where data meets real human impact
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡  Quick facts
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓  B.Tech CSE — Data Science
+📍  Based in Delhi, India
+🌱  Currently learning Web Development
+🤝  Open to collaborations & opportunities
+🐛  I debug with print() statements and I'm proud of it
+💡  Always curious, always building
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+When I'm not writing code, I'm exploring new datasets, reading about
+AI & ML trends, or tinkering with side projects that probably started
+with "what if I just tried this..."
+
+I'm a second-year student — but I think like someone who's
+already three steps ahead. 🚀
 
 ---
 
