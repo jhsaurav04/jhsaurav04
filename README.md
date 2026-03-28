@@ -1,60 +1,43 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Saurav%20Kumar&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20Web%20Dev%20in%20Progress&descAlignY=60&descSize=18&descColor=8b949e"/>
+
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Saurav%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Student%20%7C%20Data%20Analyst%20%7C%20Aspiring%20Web%20Dev&descAlignY=55&descSize=18" width="100%" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+for+the+Web+%F0%9F%8C%90;Exploring+Data+Science+%26+ML+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%9A%80;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%E2%80%94+2nd+Year;Turning+raw+data+into+real+insights;Python+%7C+ML+%7C+EDA+%7C+Web+Dev;Always+building%2C+always+learning)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=jhsaurav04&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/jhsaurav04?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)
+[![GitHub followers](https://img.shields.io/github/followers/jhsaurav04?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/jhsaurav04)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=jhsaurav04&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🌌 About Me
+## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="360" src="https://github-readme-activity-graph.vercel.app/graph?username=jhsaurav04&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
-> *"Data is not just numbers — it's the language the world speaks when it thinks no one is listening."*
+```yaml
+Name     : Saurav Kumar
+Degree   : B.Tech in Computer Science
+Year     : 2nd Year (Sophomore)
+Location : India 🇮🇳
 
-&nbsp;
+Interests:
+  - Data Analysis & Visualization
+  - Machine Learning
+  - Web Development (learning)
 
-I'm **Saurav** — a data-driven mind with a sharp eye for patterns
-and an obsession with turning raw, messy datasets into stories
-that are impossible to ignore.
+Currently:
+  - Sharpening ML skills with scikit-learn
+  - Exploring the frontend world
+  - Looking for projects worth building
 
-&nbsp;
+Mindset  : "Understand the data before trusting it."
+```
 
-▸ &nbsp; I don't just **analyze** data — I interrogate it, challenge it,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and extract every insight it's trying to hide.
-
-▸ &nbsp; I don't just **visualize** graphs — I craft narratives from numbers
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using Matplotlib, Seaborn & Plotly that speak louder than words.
-
-▸ &nbsp; I don't just **write** queries — I let SQL reveal the structure
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beneath the chaos of every raw database.
-
-▸ &nbsp; And now? I'm stepping into **Web Development** —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because the best data stories deserve a beautiful stage.
-
-&nbsp;
-
-I sit at the intersection of **Data Science** and **the Web** —
-a place where analytical thinking meets creative building,
-and where most people haven't arrived yet.
-
-&nbsp;
-
-> 🚀 &nbsp; *Not here to just learn. Here to build something worth remembering.*
-
-&nbsp;
+<br clear="right"/>
 
 ---
 
@@ -62,25 +45,53 @@ and where most people haven't arrived yet.
 
 <div align="center">
 
-### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="50%">
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**💻 Languages & Databases**
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00758f)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+
+</td>
+<td align="center" width="50%">
+
+**🤖 Machine Learning & EDA**
+
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=58a6ff)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📊 Data Visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557c)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=4c72b0)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=3f4f75)
+
+</td>
+<td align="center" width="50%">
+
+**🔧 Tools & Environment**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=f9ab00)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -90,10 +101,13 @@ and where most people haven't arrived yet.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jhsaurav04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhsaurav04&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhsaurav04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhsaurav04&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhsaurav04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" width="48%" />
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhsaurav04&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
 </div>
 
@@ -108,6 +122,16 @@ and where most people haven't arrived yet.
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhsaurav04&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)](https://github.com/jhsaurav04)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -116,26 +140,22 @@ and where most people haven't arrived yet.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhsaurav04)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravjha3084@gmail.com)
 
+<br/>
+
+💬 Got an interesting dataset? Let's explore it together.
+
+🤝 Open to collaborations on **Data, ML & Open Source** projects.
+
+📬 Always up for a conversation — reach out anytime!
+
 </div>
 
 ---
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhsaurav04&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="95%" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhsaurav04/jhsaurav04/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhsaurav04/jhsaurav04/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhsaurav04/jhsaurav04/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
