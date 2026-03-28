@@ -20,7 +20,7 @@
 
 ```yaml
 Name     : Saurav Kumar
-Degree   : B.Tech in Computer Science
+Degree   : B.Tech CSE specialization in Data Science
 Year     : 2nd Year (Sophomore)
 Location : India 🇮🇳
 
@@ -107,7 +107,7 @@ Mindset  : "Understand the data before trusting it."
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhsaurav04&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=jhsaurav04&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
 </div>
 
