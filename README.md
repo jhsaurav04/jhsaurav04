@@ -21,7 +21,7 @@
 ```yaml
 Name     : Saurav Kumar
 Degree   : B.Tech CSE specialization in Data Science
-Year     : 2nd Year (Sophomore)
+Year     : 3rd Year (Sophomore)
 Location : India 🇮🇳
 
 Interests:
