@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Saurav%20Kumar&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20Web%20Dev%20in%20Progress&descAlignY=60&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Saurav%20Kumar&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Builder%20%7C%20Co-founder%20at%20KrishiSaarthi&descAlignY=60&descSize=18&descColor=8b949e"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%E2%80%94+2nd+Year;Turning+raw+data+into+real+insights;Python+%7C+ML+%7C+EDA+%7C+Web+Dev;Always+building%2C+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%28Data+Science%29;Co-founder+%40+KrishiSaarthi+%E2%80%94+AI+Gram+Saathi;Turning+raw+data+into+real+insights;Python+%7C+SQL+%7C+ML+%7C+EDA+%7C+Web+Dev;Always+building%2C+always+learning)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,24 +20,57 @@
 
 ```yaml
 Name     : Saurav Kumar
-Degree   : B.Tech CSE specialization in Data Science
-Year     : 3rd Year (Sophomore)
+Degree   : B.Tech CSE (Data Science)
+College  : Ganga Institute of Technology & Management, Kablana
 Location : India 🇮🇳
 
-Interests:
-  - Data Analysis & Visualization
+Coursework:
   - Machine Learning
-  - Web Development (learning)
+  - DBMS
+  - Discrete Mathematics
+  - AI Fundamentals
+
+Interests:
+  - Machine Learning & Applied AI
+  - Data Analysis & Visualization
+  - AI + IoT for Agriculture
+  - Web Development
 
 Currently:
-  - Sharpening ML skills with scikit-learn
-  - Exploring the frontend world
-  - Looking for projects worth building
+  - Building KrishiSaarthi with my co-founders
+  - Shipping end to end ML projects
+  - Growing into full stack development
 
 Mindset  : "Understand the data before trusting it."
 ```
 
 <br clear="right"/>
+
+---
+
+## 🌾 Startup: KrishiSaarthi (AI Gram Saathi)
+
+I co-founded KrishiSaarthi in 2025 to bring precision agriculture to small and marginal farmers in Bihar and I lead the ML and data side
+
+- 🎙️ Voice AI advisory assistant built on Whisper an LLM and RAG
+- 🍃 Crop disease detection from leaf images using MobileNetV3 and EfficientNet
+- 💧 ESP32 based smart drip irrigation IoT kit
+- 🤝 Zero cost partner farm model with a 50:50 profit share
+- 🏆 Selected for the Bihar Idea Festival and shortlisted under the ICAR SHITIJ 2.0 Startup Incubation Programme
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Crop Recommendation System](https://github.com/jhsaurav04) | Full stack ML platform that recommends crops from soil and climate data with a REST API backend deployed on Render | FastAPI, Streamlit, scikit-learn |
+| [Credit Score Classification](https://github.com/jhsaurav04/Credit-score-classification) | Multi class prediction on a 100k row messy dataset with a reusable cleaning module and eight classifiers benchmarked | Python, scikit-learn, Pandas |
+| [Weather Summary Classification](https://github.com/jhsaurav04/Weather-Summary-Classification) | Full pipeline on about 96k hourly records with feature engineering SMOTE and seven classifiers | Python, scikit-learn, imbalanced-learn |
+| [Sea Level Predictor](https://github.com/jhsaurav04/boilerplate-sea-level-predictor) | Trend fitting and forecasting of sea level data | Python, Matplotlib, SciPy |
+| [Medical Data Visualizer](https://github.com/jhsaurav04/boilerplate-medical-data-visualizer) | Visual analysis of medical examination data | Python, Seaborn, Pandas |
+| [Demographic Data Analyzer](https://github.com/jhsaurav04/boilerplate-demographic-data-analyzer) | Statistical breakdown of census style data | Python, Pandas |
+| [Page View Time Series Visualizer](https://github.com/jhsaurav04/boilerplate-page-view-time-series-visualizer) | Time series visualization of forum traffic | Python, Matplotlib, Pandas |
 
 ---
 
@@ -77,12 +110,14 @@ Mindset  : "Understand the data before trusting it."
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557c)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=4c72b0)
 ![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=3f4f75)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=ff4b4b)
 
 </td>
 <td align="center" width="50%">
 
 **🔧 Tools & Environment**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
@@ -94,6 +129,13 @@ Mindset  : "Understand the data before trusting it."
 </table>
 
 </div>
+
+---
+
+## 📜 Certifications
+
+- freeCodeCamp Data Analysis with Python
+- Sololearn Database Fundamentals
 
 ---
 
@@ -115,10 +157,11 @@ Mindset  : "Understand the data before trusting it."
 
 ## 🌱 Currently Working On
 
-- 🔬 Building real-world **EDA & Data Visualization** projects
-- 📊 Mastering **advanced Plotly** dashboards & interactive visuals
-- 🌐 Stepping into **Full Stack Web Development**
-- 💡 Looking for exciting **open source** contributions to make an impact
+- 🌾 Growing KrishiSaarthi from ideation toward field trials with partner farms
+- 🤖 Building end to end ML projects from data cleaning to deployment
+- 📊 Mastering advanced Plotly dashboards and interactive visuals
+- 🌐 Stepping into full stack web development
+- 💡 Looking for open source projects to contribute to
 
 ---
 
@@ -132,7 +175,7 @@ Mindset  : "Understand the data before trusting it."
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -142,11 +185,11 @@ Mindset  : "Understand the data before trusting it."
 
 <br/>
 
-💬 Got an interesting dataset? Let's explore it together.
+💬 Got an interesting dataset Let's explore it together
 
-🤝 Open to collaborations on **Data, ML & Open Source** projects.
+🤝 Open to collaborations on Data ML Agri-tech and Open Source projects
 
-📬 Always up for a conversation — reach out anytime!
+📬 Always up for a conversation so reach out anytime
 
 </div>
 
